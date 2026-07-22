@@ -1,34 +1,96 @@
-# Hi, I'm Neelesh Varma 👋 | Senior Scrum Master & Agile Delivery Leader
+<h1 align="center">Hi 👋, I'm Neelesh Varma</h1>
 
-Cross-functional Agile Delivery Leader with extensive experience guiding software teams, optimizing delivery processes, and driving continuous improvement across enterprise environments at organizations like Accenture and Infosys.
-
----
-
-## 🚀 Professional Profile & Impact
-
-* **Agile Facilitation & Delivery:** Proven track record of leading high-performing Scrum and Kanban teams, driving Sprint predictability, and removing complex delivery impediments in enterprise environments.
-* **Technical & Functional Bridge:** Backed by a strong engineering foundation in **.NET platforms** and enterprise software systems, seamlessly connecting development teams with Product Owners and business stakeholders.
-* **Process Excellence & Metrics:** Skilled in leveraging data-backed metrics (Velocity, Burnup/Burndown, Lead and Cycle Time) and conducting quarterly **Agile Maturity Assessments** to foster team autonomy and relentless improvement.
-* **Scaling & Adaptability:** Core expertise in multi-team Scrum/Kanban, with **3–4 months of recent hands-on exposure to Scaled Agile (SAFe®)**—participating in PI Planning, ART alignment, and cross-team dependency mapping.
+<h3 align="center">
+Senior Scrum Master | Agile Practitioner | Servant Leader | Continuous Improvement Enthusiast
+</h3>
 
 ---
 
-## 🧰 Public Agile Toolkit & Featured Artifacts
+## 👋 About Me
 
-* 📊 **[Team Agile Maturity Matrix Tool](./Agile-Maturity-Matrix-for-Teams.xlsx)** – A quarterly team self-assessment framework evaluating Backlog Readiness, Quality, Process Mechanics, and Self-Organization.
-* 📈 **[Story Point & Capacity Calculator](./Story-Point-Calculator.xlsx)** – Practical planning tool for velocity estimation, sprint commitment, and capacity forecasting.
-* 📋 **[Definition of Ready (DoR) & Done (DoD) Frameworks](#)** – Quality gate standards designed for enterprise feature delivery and CI/CD integration.
-* 🎨 **[Retrospective & Team Working Agreements](#)** – Creative retrospective formats focused on psychological safety, root-cause problem solving, and team norms.
+I'm a Scrum Master passionate about building high-performing, self-managing teams and creating an environment where people can consistently deliver value.
 
----
-
-## 🛠️ Frameworks, Tools & Core Competencies
-
-* **Agile Frameworks:** Scrum, Kanban, Lean-Agile Principles, Enterprise Agility *(plus recent 3–4 months SAFe® framework application)*.
-* **Tooling & ALM:** Azure DevOps (ADO), Jira, MS Excel (Advanced Analytics).
-* **Core Skills:** Sprint Planning, Daily Standups, Backlog Refinement, Retrospectives, Impediment Removal, Dependency Tracking, Agile Metrics, Servant Leadership.
+I enjoy facilitating Scrum events, coaching teams on Agile principles, removing impediments, improving Sprint Predictability, enabling stakeholder collaboration, and driving continuous improvement through transparency, inspection, and adaptation.
 
 ---
 
+## 🚀 Areas of Expertise
 
-📫 **Let's Connect:** [LinkedIn Profile](https://linkedin.com/in/agilewithneelesh) | [Schedule a 15-Min Chat](https://calendly.com/yourlink
+- Scrum Framework
+- Agile Coaching
+- Sprint Planning
+- Daily Scrum Facilitation
+- Sprint Reviews
+- Sprint Retrospectives
+- Backlog Refinement
+- Cross-Team Collaboration
+- Impediment Removal
+- Dependency Management
+- Agile Metrics
+- Burndown & Burnup Charts
+- Sprint Predictability
+- Team Facilitation
+- Continuous Improvement
+
+---
+
+## 📈 Highlights
+
+- Improved Sprint Predictability through effective planning and dependency management.
+- Reduced Sprint Spillovers by strengthening Definition of Ready (DoR).
+- Facilitated Scrum Events across distributed teams.
+- Collaborated with cross-functional stakeholders to resolve delivery blockers.
+- Fostered a culture of ownership, collaboration, and continuous improvement.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Scrum Master Practices
+- Agile Leadership
+- Facilitation Techniques
+- Conflict Resolution
+- AI for Scrum Masters
+- SAFe
+
+---
+
+## 🛠️ Tools
+
+- Jira
+- Azure DevOps
+- Confluence
+- Miro
+- Microsoft Teams
+- GitHub
+
+---
+
+## 📂 What You'll Find Here
+
+This GitHub serves as my Agile knowledge repository, where I share:
+
+- Scrum Framework Notes
+- Agile Playbooks
+- Sprint Planning Guides
+- Retrospective Techniques
+- Agile Metrics
+- Burndown & Burnup Examples
+- Scrum Templates
+- Facilitation Techniques
+- Team Coaching Resources
+
+---
+
+## 🎯 Mission
+
+To enable teams to become self-managing, continuously improve their ways of working, and deliver meaningful value through effective Scrum practices.
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/agilewithneelesh/
+- 📧 Email: neelesh186@gmail.com
+
+> **"A Scrum Master creates an environment where teams can thrive—not by directing the work, but by enabling people to succeed."**
